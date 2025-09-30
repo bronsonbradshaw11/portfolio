@@ -33,6 +33,8 @@ Apply data structures and algorithms in a practical way
 Debug and test to ensure reliable performance
 
 
+
+
 🧩 Featured Project: Sudoku Solver  
 
 Another project I worked on is a **C++ Sudoku solver**, where the program can check if a board is solvable using backtracking. This project gave me experience in:  

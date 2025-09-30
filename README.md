@@ -49,6 +49,23 @@ Writing code that balances readability with performance
 
 This project strengthened my problem-solving skills and showed me how algorithm design can be applied to real-world style problems.
 
+
+🔢 Featured Project: 8-Bit ALU Calculator  
+
+I designed and implemented an **8-bit Arithmetic Logic Unit (ALU) calculator** using **Verilog** on a **Basys3 FPGA board**. The ALU can perform a variety of operations such as addition, subtraction, bitwise logic, and shifting.  
+
+Through this project, I gained experience in:  
+
+Designing and simulating digital circuits using **Verilog HDL**
+  
+Working with **combinational logic** and **modular design**
+  
+Implementing and testing on FPGA hardware (Basys3)
+  
+Debugging timing and logic errors in a hardware context  
+
+This project strengthened my understanding of digital logic design and gave me practical experience with FPGA-based systems.  
+
 Think about how software solutions connect to hardware systems
 
 

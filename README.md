@@ -32,6 +32,21 @@ Apply data structures and algorithms in a practical way
 
 Debug and test to ensure reliable performance
 
+
+🧩 Featured Project: Sudoku Solver  
+
+Another project I worked on is a **C++ Sudoku solver**, where the program can check if a board is solvable using backtracking. This project gave me experience in:  
+
+Applying **recursion** and **backtracking algorithms**  
+
+Working with **2D arrays** and board-based logic  
+
+Improving efficiency by pruning unnecessary steps  
+
+Writing code that balances readability with performance  
+
+This project strengthened my problem-solving skills and showed me how algorithm design can be applied to real-world style problems.
+
 Think about how software solutions connect to hardware systems
 
 

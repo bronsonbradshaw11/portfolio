@@ -18,7 +18,7 @@ I’d love to connect! Please reach out with any of the links below:
 
 - 📧 Email: bronsonbradshaw11@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/bronson-bradshaw-669172234](https://www.linkedin.com/in/bronson-bradshaw-669172234/)  
-- 🖥️ GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
+- 🖥️ GitHub: [https://github.com/bronsonbradshaw11](https://github.com/bronsonbradshaw11)  
 
 <br>
 

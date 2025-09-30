@@ -20,7 +20,7 @@ I’d love to connect! Please reach out with any of the links below:
 - 💼 LinkedIn: [linkedin.com/in/bronson-bradshaw-669172234](https://www.linkedin.com/in/bronson-bradshaw-669172234/)  
 - 🖥️ GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
 
-
+<br>
 
 📌 Featured Project: C++ Log Table with Binary Search Tree
 
@@ -33,7 +33,7 @@ Apply data structures and algorithms in a practical way
 Debug and test to ensure reliable performance
 
 
-
+<br>
 
 🧩 Featured Project: Sudoku Solver  
 
@@ -49,6 +49,7 @@ Writing code that balances readability with performance
 
 This project strengthened my problem-solving skills and showed me how algorithm design can be applied to real-world style problems.
 
+<br>
 
 🔢 Featured Project: 8-Bit ALU Calculator  
 
